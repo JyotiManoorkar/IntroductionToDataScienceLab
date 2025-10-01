@@ -1,4 +1,4 @@
-his assignment focuses on the implementation of Dimensionality Reduction using Principal Component Analysis (PCA) with the Iris dataset, one of the most widely used datasets in data science and machine learning.
+This assignment focuses on the implementation of Dimensionality Reduction using Principal Component Analysis (PCA) with the Iris dataset, one of the most widely used datasets in data science and machine learning.
 
 The Iris dataset contains measurements of flower attributes such as sepal length, sepal width, petal length, and petal width across three species of Iris. Since these features are correlated, PCA is applied to transform the dataset into a set of new uncorrelated variables (principal components) that capture the maximum variance in the data.
 
