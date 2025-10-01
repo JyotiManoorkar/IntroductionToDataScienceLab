@@ -1,23 +1,66 @@
-This assignment focuses on the implementation of Dimensionality Reduction using Principal Component Analysis (PCA) with the Iris dataset, one of the most widely used datasets in data science and machine learning.
+# 📊 Data Science Hands-on Assignments
 
-The Iris dataset contains measurements of flower attributes such as sepal length, sepal width, petal length, and petal width across three species of Iris. Since these features are correlated, PCA is applied to transform the dataset into a set of new uncorrelated variables (principal components) that capture the maximum variance in the data.
+This repository contains **hands-on assignments with explanations** covering core concepts in **Data Science, Statistics, Machine Learning, and Data Visualization**. Each assignment is implemented using real-world datasets, allowing learners to gain practical experience with data analysis, preprocessing, visualization, and modeling.
 
-Through this assignment, the following steps are covered:
+---
 
-Data Preprocessing: Standardizing features to ensure fair contribution to PCA.
+## 📂 Assignments Overview
 
-Applying PCA: Reducing the dataset from four dimensions to two or three principal components while retaining most of the variance.
+### 1. Data Science Lifecycle & Data Types
+- Implementation of the full Data Science Lifecycle.  
+- Classification of data types using the Titanic dataset.  
+- Dataset: [Titanic Dataset (Kaggle)](https://www.kaggle.com/c/titanic/data)
 
-Visualization: Plotting the transformed data to observe clear separation between Iris species in reduced dimensions.
+### 2. Exploratory Data Analysis (EDA) & Preprocessing
+- Data cleaning, handling missing values, and feature preprocessing.  
+- Exploratory analysis with visualizations for deeper insights.
 
-Interpretation: Understanding how PCA reduces redundancy, improves interpretability, and serves as a preprocessing step for machine learning models.
+### 3. Statistical Analysis of Data
+- Measures of central tendency, dispersion, and correlation.  
+- Explanation and demonstration of Simpson’s Paradox.
 
-By the end of this assignment, learners will:
+### 4. Probability & Statistical Distributions
+- Practical implementation of key probability concepts.  
+- Hands-on with normal, binomial, and Poisson distributions.
 
-Gain practical experience in applying PCA to real-world datasets.
+### 5. Data Visualization Techniques
+- Comparative study of Matplotlib, Seaborn, and Plotly.  
+- Building comprehensive visual insights for datasets.
 
-Understand how dimensionality reduction improves computational efficiency.
+### 6. Interactive Dashboards
+- Designing data-driven dashboards using Power BI / Tableau.  
+- Turning data into compelling visual narratives.
 
-Be able to visualize and interpret high-dimensional data in a simpler form.
+### 7. Dimensionality Reduction with PCA
+- Applying Principal Component Analysis (PCA) on the Iris dataset.  
+- Visualizing reduced feature spaces.
 
-This exercise builds an essential skill in data science, as PCA is widely used in exploratory analysis, feature reduction, and machine learning pipelines.
+### 8. Advanced Data Preprocessing
+- Categorical encoding, feature scaling, and binning.  
+- Dataset: [Purchase Behavior Dataset](https://www.kaggle.com/datasets/durgeshrao9993/purchase-behavior-dataset)
+
+### 9. Linear Regression for House Price Forecasting
+- Implementing simple and multiple linear regression models.  
+- Forecasting real-estate prices using structured datasets.
+
+### 10. Logistic Regression & k-NN for Spam Detection
+- Binary classification using Logistic Regression and k-Nearest Neighbors.  
+- Dataset: SpamBase Dataset.
+
+---
+
+## 🚀 Features
+
+- ✅ Step-by-step explanations with code  
+- ✅ Real-world datasets from Kaggle/UCI  
+- ✅ Jupyter notebooks for interactive learning  
+- ✅ Visualizations for clear data insights  
+- ✅ Coverage from **EDA → Statistics → ML → Visualization**
+
+---
+
+## 📌 How to Use
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/your-username/data-science-assignments.git
